@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mi5CameraCalibrate</string>
+    <string name="calibrate_instructions">Test instructions: \n1.Tap the calibration button below to start OIS calibration.\n2.There will be a calibration pass label to indicate the ois has been calibrated.
+    </string>
+    <string name="calibrate">Calibrate</string>
+    <string name="calibrate_success">Calibration passed</string>
+</resources>
